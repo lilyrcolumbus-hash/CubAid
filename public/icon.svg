@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- White background for maskable -->
+  <rect width="512" height="512" fill="#ffffff"/>
+  <!-- Red circle background -->
+  <circle cx="256" cy="256" r="220" fill="#dc2626"/>
+  <!-- White heart shape -->
+  <path d="M256 370
+    C256 370 140 290 140 210
+    C140 170 170 148 200 148
+    C222 148 244 162 256 178
+    C268 162 290 148 312 148
+    C342 148 372 170 372 210
+    C372 290 256 370 256 370Z"
+    fill="white"/>
+  <!-- Red cross on heart -->
+  <rect x="236" y="178" width="40" height="110" rx="6" fill="#dc2626"/>
+  <rect x="196" y="213" width="120" height="40" rx="6" fill="#dc2626"/>
+</svg>
